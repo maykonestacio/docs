@@ -1,4 +1,4 @@
-Technical Debt
+# Technical Debt
 
 Everyone does their best to write excellent code from scratch. There probably isn’t a programmer out there who intentionally writes unclean code to the detriment of the project. But at what point does clean code become unclean?
 
